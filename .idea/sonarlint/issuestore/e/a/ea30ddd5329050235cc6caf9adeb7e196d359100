@@ -1,0 +1,10 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ê¸ÇÕ2J$ea2a6178-bd90-4aba-9c1d-76cbd1b1de8b
+Š
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‹½»8Ô¶ÈÕ2J$4e0f404d-2cfe-4c9c-8ad1-e0d6924e30c3
+~
+java:S6437"6Revoke and change this password, as it is compromised.(Şóıûÿÿÿÿ8ı¸ÇÕ2J$ef30c13c-573d-491d-9820-be39050b6c44
+g
+java:S6905"Don't use the query "SELECT *".(¾Ú„âøÿÿÿÿ8‚¹ÇÕ2J$80f6b578-195d-439f-aff0-492f616d17ce
+r	java:S106"+Replace this use of System.out by a logger.(øùÎøÿÿÿÿ8…¹ÇÕ2J$0120536f-d92f-421e-9d0e-e314fa375189
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ğâÉÕ2J$b0d85193-35bd-4fb8-bb97-64604c3d56a2

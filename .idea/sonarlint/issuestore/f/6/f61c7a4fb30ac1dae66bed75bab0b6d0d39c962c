@@ -1,0 +1,10 @@
+
+	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ñ’ßÔ2J$67f7f91e-b383-4c17-8716-0c1e56fcc8cb
+Š
+java:S2095&"GUse try-with-resources or close this "Statement" in a "finally" clause.(‹½»8ù’ßÔ2J$32303216-1c7b-49b5-875e-45e28aced21d
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8ü’ßÔ2J$18470ed6-9e3b-4c52-a389-2e2fa1d6109a
+~
+java:S6437""6Revoke and change this password, as it is compromised.(Şóıûÿÿÿÿ8ı’ßÔ2J$72873346-1fcb-4e47-a189-78637f1a0dc2
+ƒ	java:S125,"<This block of commented-out lines of code should be removed.(ÔÎ ¿üÿÿÿÿ8ÿ’ßÔ2J$6a690e27-6988-42f7-8386-f3bbbfe42ed2
+m	java:S1061"+Replace this use of System.out by a logger.(¨´Ğ¥8ƒ€üÔ2J$4b578a43-ed8d-458a-8915-66915a6cc2d6
+ƒ	java:S125<"<This block of commented-out lines of code should be removed.(¼¬êîÿÿÿÿÿ8…€üÔ2J$2c9ecc16-384b-412b-840f-472f25581d8b
